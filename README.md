@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://ashwiniadsule.github.io/My_Portfolio/](https://ashwiniadsule.github.io/My_Portfolio/)
+- 💻 All of my projects are available at [https://ashwiniadsule.github.io/My_Portfolio/](https://ashwiniadsule.github.io/My_Portfolio/)
 
 - 💬 Ask me about **Front End Development**
 
