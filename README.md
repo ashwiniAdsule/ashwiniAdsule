@@ -7,7 +7,7 @@
 
 - 💻 All of my projects are available at [https://ashwiniadsule.github.io/My_Portfolio/](https://ashwiniadsule.github.io/My_Portfolio/)
 
-- 📫 How to reach me **ashwiniadsule147@gmail.com**
+- 📫 How to reach me **the.ashwini.adsule@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
