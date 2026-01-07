@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwiniadsule&label=Profile%20views&color=0e75b6&style=flat" alt="ashwiniadsule" /> </p>
 
-- 🌱 I’m a **Full Stack Developer**
+- 🌱 I’m applying knowlege to build real world applications
 
 - 💻 All of my projects are available at [https://ashwiniadsule.github.io/My_Portfolio/](https://ashwiniadsule.github.io/My_Portfolio/)
 
